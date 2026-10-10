@@ -1,4 +1,4 @@
-# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
+# Modified by The Agent Factory for Claude Academy: rebranding and web language detection (see BRANDING.md).
 # Hungarian (hu) catalog. Format: see the header of ja.tsv
 # (context <TAB> source <TAB> translation; @id, @plural and other contexts; escapes \n \t \\).
 # Plural forms (see `plural_one_other` in i18n/mod.rs): one (1) | other (0, 2, 3 ...).

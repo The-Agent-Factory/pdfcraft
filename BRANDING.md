@@ -1,7 +1,10 @@
 # BRANDING.md: Atelier PDF (based on PdfCraft)
 
-This branch (`academy`) is PdfCraft by the ArtCraft team with **rebranding only**, made by
-The Agent Factory for Claude Academy. No feature, format or engine code is changed.
+This branch (`academy`) is PdfCraft by the ArtCraft team with **rebranding** and one small
+change made by The Agent Factory for Claude Academy: in the browser build, the interface language follows
+`?lang=xx` in the page address (set by the Claude Academy tools page), then the browser's preferred
+languages (upstream always shows English on the web). Where the app has no French catalog we add
+one (`rebrand/apps/<app>/fr.tsv` in the deploy repo). No format or engine code is changed.
 
 | | |
 |---|---|
@@ -26,6 +29,7 @@ In-app links: community -> https://www.skool.com/claudeacademy, website -> https
 - `apps/pdfcraft-web/index.html`
 - `crates/engine/src/commands.rs`
 - `crates/engine/src/links.rs`
+- `crates/ui-egui/Cargo.toml`
 - `crates/ui-egui/src/chrome.rs`
 - `crates/ui-egui/src/dialogs.rs`
 - `crates/ui-egui/src/home.rs`
@@ -37,6 +41,7 @@ In-app links: community -> https://www.skool.com/claudeacademy, website -> https
 - `crates/ui-egui/src/i18n/hu.tsv`
 - `crates/ui-egui/src/i18n/it.tsv`
 - `crates/ui-egui/src/i18n/ja.tsv`
+- `crates/ui-egui/src/i18n/mod.rs`
 - `crates/ui-egui/src/i18n/pt-br.tsv`
 - `crates/ui-egui/src/i18n/ru.tsv`
 - `crates/ui-egui/src/i18n/te.tsv`

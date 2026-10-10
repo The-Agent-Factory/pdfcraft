@@ -1,3 +1,4 @@
+// Modified by The Agent Factory for Claude Academy: rebranding and web language detection (see BRANDING.md).
 //! UI localisation. Strings in code stay English and are the default lookup keys; a per-language
 //! catalog (`*.tsv`, see `ja.tsv` for the format) maps them to display text at render time. Command
 //! ids, document text, file names, the control channel, the CLI and MCP never see translated text,
@@ -302,7 +303,15 @@ fn first_supported(list: &str) -> Option<Lang> {
 
 #[cfg(target_arch = "wasm32")]
 fn detect_system_lang() -> Lang {
-    Lang::EN
+    // Claude Academy: `?lang=xx` from the tools page first, then the browser's preferred languages.
+    let Some(win) = web_sys::window() else { return Lang::EN };
+    let from_url = win.location().search().ok().and_then(|s| {
+        s.trim_start_matches('?').split('&').find_map(|kv| kv.strip_prefix("lang=")).and_then(lang_from_tag)
+    });
+    if let Some(l) = from_url {
+        return l;
+    }
+    win.navigator().languages().iter().filter_map(|v| v.as_string()).find_map(|t| lang_from_tag(&t)).unwrap_or(Lang::EN)
 }
 
 thread_local! {

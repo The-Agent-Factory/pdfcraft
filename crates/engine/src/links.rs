@@ -1,4 +1,4 @@
-// Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
+// Modified by The Agent Factory for Claude Academy: rebranding and web language detection (see BRANDING.md).
 //! Where PdfCraft and the ArtCraft community live on the web. One table, so the Help menu, the
 //! About dialog, the home screen, the CLI and the README agree.
 
