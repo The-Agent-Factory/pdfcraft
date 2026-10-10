@@ -1,3 +1,4 @@
+# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 # Spanish (es) catalog. Format: see the header of ja.tsv
 # (context <TAB> source <TAB> translation; @id, @plural and other contexts; escapes \n \t \\).
 # Plural forms (see `plural_one_other` in i18n/mod.rs): one (1) | other.
@@ -82,7 +83,7 @@
 	Side panels	Paneles laterales
 	Enable Acrobat JavaScript	Activar Acrobat JavaScript
 	OK	Aceptar
-	Join our Discord	Únete a nuestro Discord
+	Join the community	Join the community
 	Close	Cerrar
 	Next / previous match	Coincidencia siguiente / anterior
 	Copy selected text	Copiar el texto seleccionado
@@ -142,10 +143,10 @@
 	Next page	Página siguiente
 	Previous page	Página anterior
 	Current page — type a page number or label (such as iv) and press Enter	Página actual: escribe un número o una etiqueta de página (por ejemplo, iv) y pulsa Intro
-	Welcome to PdfCraft	Te damos la bienvenida a PdfCraft
+	Welcome to Atelier PDF	Welcome to Atelier PDF
 	An open-source PDF workbench — local, private, and scriptable.	Un banco de trabajo PDF de código abierto: local, privado y automatizable.
-	Join the ArtCraft community	Únete a la comunidad de ArtCraft
-	Get help, share feedback and follow development on Discord.	Recibe ayuda, comparte tu opinión y sigue el desarrollo en Discord.
+	Join the Claude Academy community	Join the Claude Academy community
+	Get help and share feedback with other business owners.	Get help and share feedback with other business owners.
 	Recommended tools	Herramientas recomendadas
 	Use now	Usar ahora
 	Open file	Abrir archivo
@@ -285,12 +286,12 @@
 	Split document…	Dividir documento…
 	Number pages…	Numerar páginas…
 	Keyboard shortcuts	Atajos de teclado
-	Join the ArtCraft Discord	Únete al Discord de ArtCraft
-	PdfCraft web page	Página web de PdfCraft
+	Claude Academy community	Claude Academy community
+	Atelier PDF web page	Atelier PDF web page
 	PdfCraft on GitHub	PdfCraft en GitHub
-	ArtCraft website	Sitio web de ArtCraft
+	Claude Academy website	Claude Academy website
 	Check for updates…	Buscar actualizaciones…
-	About PdfCraft	Acerca de PdfCraft
+	About Atelier PDF	About Atelier PDF
 	Export a PDF	Exportar un PDF
 	Export to	Exportar a
 	Microsoft Word (.docx)	Microsoft Word (.docx)

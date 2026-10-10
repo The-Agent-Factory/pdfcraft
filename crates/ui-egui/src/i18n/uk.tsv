@@ -1,3 +1,4 @@
+# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 # Ukrainian (uk) catalog. Columns, separated by a TAB:  context <TAB> source <TAB> translation
 #
 #   context  empty                a plain UI string; `source` is the English text in the code
@@ -87,7 +88,7 @@
 	Side panels	Бічні панелі
 	Enable Acrobat JavaScript	Увімкнути Acrobat JavaScript
 	OK	OK
-	Join our Discord	Приєднатися до нашого Discord
+	Join the community	Join the community
 	Close	Закрити
 	Next / previous match	Наступний / попередній збіг
 	Copy selected text	Копіювати виділений текст
@@ -147,10 +148,10 @@
 	Next page	Наступна сторінка
 	Previous page	Попередня сторінка
 	Current page — type a page number or label (such as iv) and press Enter	Поточна сторінка — введіть номер або позначку сторінки (наприклад iv) і натисніть Enter
-	Welcome to PdfCraft	Вітаємо в PdfCraft
+	Welcome to Atelier PDF	Welcome to Atelier PDF
 	An open-source PDF workbench — local, private, and scriptable.	Відкритий інструментарій для PDF — локальний, приватний і з підтримкою сценаріїв.
-	Join the ArtCraft community	Приєднатися до спільноти ArtCraft
-	Get help, share feedback and follow development on Discord.	Отримуйте допомогу, діліться відгуками й стежте за розробкою в Discord.
+	Join the Claude Academy community	Join the Claude Academy community
+	Get help and share feedback with other business owners.	Get help and share feedback with other business owners.
 	Recommended tools	Рекомендовані інструменти
 	Use now	Використати зараз
 	Open file	Відкрити файл
@@ -290,12 +291,12 @@
 	Split document…	Розділити документ…
 	Number pages…	Пронумерувати сторінки…
 	Keyboard shortcuts	Клавіатурні скорочення
-	Join the ArtCraft Discord	Приєднатися до Discord ArtCraft
-	PdfCraft web page	Вебсторінка PdfCraft
+	Claude Academy community	Claude Academy community
+	Atelier PDF web page	Atelier PDF web page
 	PdfCraft on GitHub	PdfCraft на GitHub
-	ArtCraft website	Вебсайт ArtCraft
+	Claude Academy website	Claude Academy website
 	Check for updates…	Перевірити оновлення…
-	About PdfCraft	Про PdfCraft
+	About Atelier PDF	About Atelier PDF
 	Export a PDF	Експортувати PDF
 	Export to	Експортувати в
 	Microsoft Word (.docx)	Microsoft Word (.docx)

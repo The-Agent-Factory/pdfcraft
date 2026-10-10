@@ -1,3 +1,4 @@
+# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 # German (de) catalog. Format: see the header of ja.tsv
 # (context <TAB> source <TAB> translation; @id, @plural and other contexts; escapes \n \t \\).
 # Plural forms (see `plural_one_other` in i18n/mod.rs): one (1) | other (0, 2, 3 ...).
@@ -61,7 +62,7 @@
 	Flatten Fill & Sign when saving	Ausfüllen und unterschreiben beim Speichern reduzieren
 	Text, marks and signatures become part of the page. Other comments stay editable.	Text, Markierungen und Unterschriften werden Teil der Seite. Andere Kommentare bleiben bearbeitbar.
 	OK	OK
-	Join our Discord	Unserem Discord beitreten
+	Join the community	Join the community
 	Close	Schließen
 	Next / previous match	Nächster / vorheriger Treffer
 	Copy selected text	Ausgewählten Text kopieren
@@ -121,10 +122,10 @@
 	Next page	Nächste Seite
 	Previous page	Vorherige Seite
 	Current page — type a page number or label (such as iv) and press Enter	Aktuelle Seite – gib eine Seitenzahl oder -beschriftung ein (z. B. iv) und drücke die Eingabetaste
-	Welcome to PdfCraft	Willkommen bei PdfCraft
+	Welcome to Atelier PDF	Welcome to Atelier PDF
 	An open-source PDF workbench — local, private, and scriptable.	Eine Open-Source-PDF-Werkbank – lokal, privat und skriptfähig.
-	Join the ArtCraft community	Tritt der ArtCraft-Community bei
-	Get help, share feedback and follow development on Discord.	Hol dir Hilfe, gib Feedback und verfolge die Entwicklung auf Discord.
+	Join the Claude Academy community	Join the Claude Academy community
+	Get help and share feedback with other business owners.	Get help and share feedback with other business owners.
 	Recommended tools	Empfohlene Werkzeuge
 	Use now	Jetzt verwenden
 	Open file	Datei öffnen
@@ -264,12 +265,12 @@
 	Split document…	Dokument teilen…
 	Number pages…	Seiten nummerieren…
 	Keyboard shortcuts	Tastenkürzel
-	Join the ArtCraft Discord	Dem ArtCraft-Discord beitreten
-	PdfCraft web page	PdfCraft-Webseite
+	Claude Academy community	Claude Academy community
+	Atelier PDF web page	Atelier PDF web page
 	PdfCraft on GitHub	PdfCraft auf GitHub
-	ArtCraft website	ArtCraft-Website
+	Claude Academy website	Claude Academy website
 	Check for updates…	Nach Updates suchen…
-	About PdfCraft	Über PdfCraft
+	About Atelier PDF	About Atelier PDF
 	Export a PDF	PDF exportieren
 	Export to	Exportieren nach
 	Microsoft Word (.docx)	Microsoft Word (.docx)

@@ -1,3 +1,4 @@
+# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 # Japanese (ja) catalog. Columns, separated by a TAB:  context <TAB> source <TAB> translation
 #
 #   context  empty                a plain UI string; `source` is the English text in the code
@@ -88,7 +89,7 @@
 	Side panels	サイドパネル
 	Enable Acrobat JavaScript	Acrobat JavaScript を有効にする
 	OK	OK
-	Join our Discord	Discord に参加
+	Join the community	Join the community
 	Close	閉じる
 	Next / previous match	次／前の検索結果
 	Copy selected text	選択したテキストをコピー
@@ -148,10 +149,10 @@
 	Next page	次のページ
 	Previous page	前のページ
 	Current page — type a page number or label (such as iv) and press Enter	現在のページ：ページ番号またはラベル（例：iv）を入力して Enter
-	Welcome to PdfCraft	PdfCraft へようこそ
+	Welcome to Atelier PDF	Welcome to Atelier PDF
 	An open-source PDF workbench — local, private, and scriptable.	ローカルで処理し、プライバシーを守る、スクリプト対応のオープンソース PDF ツール。
-	Join the ArtCraft community	ArtCraft コミュニティに参加
-	Get help, share feedback and follow development on Discord.	Discord で質問やフィードバックを共有し、開発の進捗を確認できます。
+	Join the Claude Academy community	Join the Claude Academy community
+	Get help and share feedback with other business owners.	Get help and share feedback with other business owners.
 	Recommended tools	おすすめのツール
 	Use now	使用する
 	Open file	ファイルを開く
@@ -291,12 +292,12 @@
 	Split document…	文書を分割…
 	Number pages…	ページ番号を設定…
 	Keyboard shortcuts	キーボードショートカット
-	Join the ArtCraft Discord	ArtCraft の Discord に参加
-	PdfCraft web page	PdfCraft の Web 版
+	Claude Academy community	Claude Academy community
+	Atelier PDF web page	Atelier PDF web page
 	PdfCraft on GitHub	GitHub の PdfCraft
-	ArtCraft website	ArtCraft のウェブサイト
+	Claude Academy website	Claude Academy website
 	Check for updates…	更新を確認…
-	About PdfCraft	PdfCraft について
+	About Atelier PDF	About Atelier PDF
 	Export a PDF	PDF を書き出す
 	Export to	書き出し形式
 	Microsoft Word (.docx)	Microsoft Word（.docx）

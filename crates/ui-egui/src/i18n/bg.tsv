@@ -1,3 +1,4 @@
+# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 # Bulgarian (bg) catalog. Format: see the header of ja.tsv
 # (context <TAB> source <TAB> translation; @id, @plural and other contexts; escapes \n \t \\).
 # Plural forms (see `plural_one_other` in i18n/mod.rs): one (1) | other.
@@ -1719,7 +1720,7 @@
 	Read	Четене
 	Convert	Конвертиране
 	E-Sign	Е-подпис
-	Welcome to PdfCraft	Добре дошли в PdfCraft
+	Welcome to Atelier PDF	Welcome to Atelier PDF
 	An open-source PDF workbench — local, private, and scriptable.	PDF работна среда с отворен код — локална, поверителна и програмируема.
 	Recommended tools	Препоръчани инструменти
 	Use now	Използвай сега
@@ -1752,15 +1753,15 @@
 	Split document…	Раздели документа…
 	Number pages…	Номерирай страниците…
 	Keyboard shortcuts	Клавишни комбинации
-	Join the ArtCraft Discord	Присъедини се към ArtCraft в Discord
-	Join the ArtCraft community	Присъедини се към общността на ArtCraft
-	Get help, share feedback and follow development on Discord.	Получете помощ, споделете мнение и следете разработката в Discord.
-	Join our Discord	Присъедини се към нашия Discord
-	PdfCraft web page	Уебстраница на PdfCraft
+	Claude Academy community	Claude Academy community
+	Join the Claude Academy community	Join the Claude Academy community
+	Get help and share feedback with other business owners.	Get help and share feedback with other business owners.
+	Join the community	Join the community
+	Atelier PDF web page	Atelier PDF web page
 	PdfCraft on GitHub	PdfCraft в GitHub
-	ArtCraft website	Уебсайт на ArtCraft
+	Claude Academy website	Claude Academy website
 	Check for updates…	Провери за актуализации…
-	About PdfCraft	За PdfCraft
+	About Atelier PDF	About Atelier PDF
 	JavaScript console…	JavaScript конзола…
 	Document JavaScripts…	JavaScript на документа…
 	Recognize text…	Разпознай текст…

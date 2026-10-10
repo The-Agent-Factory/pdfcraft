@@ -1,3 +1,4 @@
+# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 # Italian (it) catalog. Columns, separated by a TAB:  context <TAB> source <TAB> translation
 #
 #   context  empty                a plain UI string; `source` is the English text in the code
@@ -85,7 +86,7 @@
 	Side panels	Pannelli laterali
 	Enable Acrobat JavaScript	Abilita JavaScript di Acrobat
 	OK	OK
-	Join our Discord	Unisciti al nostro Discord
+	Join the community	Join the community
 	Close	Chiudi
 	Next / previous match	Risultato successivo/precedente
 	Copy selected text	Copia testo selezionato
@@ -145,10 +146,10 @@
 	Next page	Pagina successiva
 	Previous page	Pagina precedente
 	Current page — type a page number or label (such as iv) and press Enter	Pagina corrente: digita un numero o un'etichetta di pagina (ad esempio iv) e premi Invio
-	Welcome to PdfCraft	Benvenuto in PdfCraft
+	Welcome to Atelier PDF	Welcome to Atelier PDF
 	An open-source PDF workbench — local, private, and scriptable.	Un banco di lavoro PDF open source: locale, riservato e programmabile.
-	Join the ArtCraft community	Unisciti alla community di ArtCraft
-	Get help, share feedback and follow development on Discord.	Chiedi aiuto, condividi commenti e segui lo sviluppo su Discord.
+	Join the Claude Academy community	Join the Claude Academy community
+	Get help and share feedback with other business owners.	Get help and share feedback with other business owners.
 	Recommended tools	Strumenti consigliati
 	Use now	Usa ora
 	Open file	Apri file
@@ -288,12 +289,12 @@
 	Split document…	Dividi documento…
 	Number pages…	Numera pagine…
 	Keyboard shortcuts	Scorciatoie da tastiera
-	Join the ArtCraft Discord	Unisciti al Discord di ArtCraft
-	PdfCraft web page	Pagina web di PdfCraft
+	Claude Academy community	Claude Academy community
+	Atelier PDF web page	Atelier PDF web page
 	PdfCraft on GitHub	PdfCraft su GitHub
-	ArtCraft website	Sito web di ArtCraft
+	Claude Academy website	Claude Academy website
 	Check for updates…	Verifica aggiornamenti…
-	About PdfCraft	Informazioni su PdfCraft
+	About Atelier PDF	About Atelier PDF
 	Export a PDF	Esporta un PDF
 	Export to	Esporta in
 	Microsoft Word (.docx)	Microsoft Word (.docx)

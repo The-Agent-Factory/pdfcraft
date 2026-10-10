@@ -1,3 +1,4 @@
+// Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 //! Modal dialogs: Document Properties, Keyboard Shortcuts, About (with the Contributors and Models credits).
 
 use egui::{Align, Layout};
@@ -1080,9 +1081,8 @@ pub fn show(app: &mut PdfCraftApp, ctx: &egui::Context) {
                     2 => crate::credits::models_ui(ui),
                     _ => {
                         ui.horizontal(|ui| {
-                            widgets::artcraft_mark(ui, 40.0);
                             ui.vertical(|ui| {
-                                ui.label(egui::RichText::new("PdfCraft").font(theme::semibold(20.0)));
+                                ui.label(egui::RichText::new("Atelier PDF").font(theme::semibold(20.0)));
                                 ui.label(crate::i18n::fmt(tl!("Version {v}"), &[("v", env!("CARGO_PKG_VERSION"))]));
                             });
                         });
@@ -1096,10 +1096,12 @@ pub fn show(app: &mut PdfCraftApp, ctx: &egui::Context) {
                             .small(),
                         );
                         ui.add_space(12.0);
-                        ui.horizontal(|ui| {
-                            ui.label(egui::RichText::new(tl!("Part of")).color(t.text_muted));
-                            widgets::artcraft_logo(ui, 16.0);
-                        });
+                        ui.label(egui::RichText::new(tl!("Free preview from Claude Academy.")).color(t.text_muted));
+                        ui.label(
+                            egui::RichText::new(tl!("Based on PdfCraft by the ArtCraft team (github.com/storytold/pdfcraft). Not affiliated with the ArtCraft team, Adobe or Microsoft."))
+                                .color(t.text_muted)
+                                .small(),
+                        );
                         ui.add_space(6.0);
                         if let Some(cmd) = widgets::community_links(ui) {
                             link_command = Some(cmd);

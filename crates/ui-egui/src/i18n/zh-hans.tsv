@@ -1,3 +1,4 @@
+# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 # Simplified Chinese (zh-hans) catalog. Format: see the header
 # of ja.tsv (context <TAB> source <TAB> translation; @id, @plural and other contexts; escapes
 # \n \t \\). Chinese has one plural form.
@@ -1726,7 +1727,7 @@
 	Read	阅读
 	Convert	转换
 	E-Sign	电子签名
-	Welcome to PdfCraft	欢迎使用 PdfCraft
+	Welcome to Atelier PDF	Welcome to Atelier PDF
 	An open-source PDF workbench — local, private, and scriptable.	开源 PDF 工作台——本地、私密、可编写脚本。
 	Recommended tools	推荐工具
 	Use now	立即使用
@@ -1759,15 +1760,15 @@
 	Split document…	拆分文档…
 	Number pages…	页面编号…
 	Keyboard shortcuts	键盘快捷键
-	Join the ArtCraft Discord	加入 ArtCraft Discord
-	Join the ArtCraft community	加入 ArtCraft 社区
-	Get help, share feedback and follow development on Discord.	在 Discord 上获取帮助、分享反馈并关注开发动态。
-	Join our Discord	加入我们的 Discord
-	PdfCraft web page	PdfCraft 网页
+	Claude Academy community	Claude Academy community
+	Join the Claude Academy community	Join the Claude Academy community
+	Get help and share feedback with other business owners.	Get help and share feedback with other business owners.
+	Join the community	Join the community
+	Atelier PDF web page	Atelier PDF web page
 	PdfCraft on GitHub	GitHub 上的 PdfCraft
-	ArtCraft website	ArtCraft 官网
+	Claude Academy website	Claude Academy website
 	Check for updates…	检查更新…
-	About PdfCraft	关于 PdfCraft
+	About Atelier PDF	About Atelier PDF
 	JavaScript console…	JavaScript 控制台…
 	Document JavaScripts…	文档 JavaScript…
 	Recognize text…	识别文本…

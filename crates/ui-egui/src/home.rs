@@ -1,3 +1,4 @@
+// Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 //! Home tab: recommended tools, open card, pinned folders and recent files (local only, never
 //! another app's list).
 
@@ -13,7 +14,7 @@ pub fn show(app: &mut PdfCraftApp, ui: &mut egui::Ui) {
     let t = Tokens::get(ui.ctx());
     egui::ScrollArea::vertical().auto_shrink([false, false]).show(ui, |ui| {
         egui::Frame::NONE.inner_margin(egui::Margin { left: 36, right: 36, top: 28, bottom: 28 }).show(ui, |ui| {
-            ui.label(egui::RichText::new(tl!("Welcome to PdfCraft")).font(theme::semibold(24.0)));
+            ui.label(egui::RichText::new(tl!("Welcome to Atelier PDF")).font(theme::semibold(24.0)));
             ui.label(
                 egui::RichText::new(tl!("An open-source PDF workbench — local, private, and scriptable."))
                     .color(t.text_muted)
@@ -28,10 +29,9 @@ pub fn show(app: &mut PdfCraftApp, ui: &mut egui::Ui) {
                 .show(ui, |ui| {
                     ui.set_width(ui.available_width());
                     ui.horizontal(|ui| {
-                        widgets::artcraft_mark(ui, 28.0);
                         ui.vertical(|ui| {
-                            ui.label(egui::RichText::new(tl!("Join the ArtCraft community")).font(theme::semibold(15.0)));
-                            ui.label(egui::RichText::new(tl!("Get help, share feedback and follow development on Discord.")).color(t.text_muted));
+                            ui.label(egui::RichText::new(tl!("Join the Claude Academy community")).font(theme::semibold(15.0)));
+                            ui.label(egui::RichText::new(tl!("Get help and share feedback with other business owners.")).color(t.text_muted));
                         });
                     });
                     ui.add_space(8.0);

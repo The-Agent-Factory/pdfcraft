@@ -1,3 +1,4 @@
+# Modified by The Agent Factory for Claude Academy: rebranding only (see BRANDING.md).
 # Brazilian Portuguese (pt-br) catalog. Format: see the header of ja.tsv
 # (context <TAB> source <TAB> translation; @id, @plural and other contexts; escapes \n \t \\).
 # Plural forms (see `plural_pt` in i18n/mod.rs): one (0 and 1) | other.
@@ -1593,7 +1594,7 @@
 	Read	Ler
 	Convert	Converter
 	E-Sign	Assinatura eletrônica
-	Welcome to PdfCraft	Bem-vindo ao PdfCraft
+	Welcome to Atelier PDF	Welcome to Atelier PDF
 	An open-source PDF workbench — local, private, and scriptable.	Uma bancada de trabalho de PDF de código aberto — local, privada e programável.
 	Recommended tools	Ferramentas recomendadas
 	Use now	Usar agora
@@ -1626,15 +1627,15 @@
 	Split document…	Dividir documento…
 	Number pages…	Numerar páginas…
 	Keyboard shortcuts	Atalhos de teclado
-	Join the ArtCraft Discord	Entrar no Discord do ArtCraft
-	Join the ArtCraft community	Entrar na comunidade ArtCraft
-	Get help, share feedback and follow development on Discord.	Obtenha ajuda, compartilhe comentários e acompanhe o desenvolvimento no Discord.
-	Join our Discord	Entrar em nosso Discord
-	PdfCraft web page	Página da Web do PdfCraft
+	Claude Academy community	Claude Academy community
+	Join the Claude Academy community	Join the Claude Academy community
+	Get help and share feedback with other business owners.	Get help and share feedback with other business owners.
+	Join the community	Join the community
+	Atelier PDF web page	Atelier PDF web page
 	PdfCraft on GitHub	PdfCraft no GitHub
-	ArtCraft website	Site do ArtCraft
+	Claude Academy website	Claude Academy website
 	Check for updates…	Verificar atualizações…
-	About PdfCraft	Sobre o PdfCraft
+	About Atelier PDF	About Atelier PDF
 	JavaScript console…	Console JavaScript…
 	Document JavaScripts…	JavaScripts do documento…
 	Recognize text…	Reconhecer texto…
